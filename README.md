@@ -46,6 +46,11 @@
     <li><a href="https://postgresql.org">PostgreSQL</a></li>
   </ul></details>
 
+# Link to Rails App
+
+> You can get the link to the rails backend below:
+
+[React-Rails-Backend](https://github.com/Luchy-B/hello-react-front-end)
 ### Key Features <a name="key-features"></a>
 
 - Registered users will be able to create new category.
